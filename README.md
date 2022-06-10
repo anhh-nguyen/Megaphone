@@ -1,13 +1,13 @@
-## Megaphone
+# Megaphone
 Protest website for GT Web Dev Club
 
-# Contributors: 
+## Contributors: 
 
 Team Lead: 
 Jinwoo Park
 
 Developers: Josh Samuel, Hai Dao, Anh Nguyen, Serene, Rohan 
-# Overview
+## Overview
 Landing Page
 
 ![Screen Shot 2022-06-06 at 10 13 18 PM](https://user-images.githubusercontent.com/90353674/172520978-8ac0522d-62d4-44d4-b736-296c291bf70a.png)
